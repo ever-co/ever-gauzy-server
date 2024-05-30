@@ -1,6 +1,6 @@
 # Ever Gauzy Server
 
-Please see https://github.com/ever-co/ever-gauzy for more information about Gauzy Platform and other available Apps.
+Please see https://github.com/ever-co/ever-gauzy for more information about the Ever Gauzy Platform and other available Apps.
 
 ## Contribute
 
@@ -10,7 +10,7 @@ Please see https://github.com/ever-co/ever-gauzy for more information about Gauz
 
 ## Contributors
 
-View full list of our [contributors](https://github.com/ever-co/ever-gauzy/graphs/contributors).
+View the full list of our [contributors](https://github.com/ever-co/ever-gauzy/graphs/contributors).
 
 ## Contact Us
 
@@ -27,19 +27,19 @@ View full list of our [contributors](https://github.com/ever-co/ever-gauzy/graph
 
 ## Security
 
-Gauzy™ follows good security practices, but 100% security cannot be guaranteed in any software!  
-Gauzy™ is provided AS IS without any warranty. Use at your own risk!  
+Ever Gauzy™ follows good security practices, but 100% security cannot be guaranteed in any software!  
+Ever Gauzy™ is provided AS IS without any warranty. Use at your own risk!  
 See more details in the [LICENSE](LICENSE.md).
 
 In a production setup, all client-side to server-side (backend, APIs) communications should be encrypted using HTTPS/WSS/SSL (REST APIs, GraphQL endpoint, Socket.io WebSockets, etc.).
 
-If you discover any issue regarding security, please disclose the information responsibly by sending an email to <mailto:security@ever.co> or on  [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev) and not by creating a GitHub issue.
+If you discover any issue regarding security, please disclose the information responsibly by emailing <mailto:security@ever.co> and not by creating a GitHub issue.
 
 ## License
 
-We support the open-source community. If you're building awesome non-profit/open-source projects, we're happy to help and will provide (subject to [acceptance criteria](https://github.com/ever-co/ever-gauzy/wiki/Free-license-and-hosting-for-Non-profit-and-Open-Source-projects)) Ever Gauzy Enterprise edition license and free hosting option! Feel free to contact us at <mailto:ever@ever.co> to make a request. More details explained in our [Wiki](https://github.com/ever-co/ever-gauzy/wiki/Free-license-and-hosting-for-Non-profit-and-Open-Source-projects).
+We support the open-source community. If you're building awesome non-profit/open-source projects, we're happy to help and will provide (subject to [acceptance criteria](https://github.com/ever-co/ever-gauzy/wiki/Free-license-and-hosting-for-Non-profit-and-Open-Source-projects)) Ever Gauzy Enterprise edition license and free hosting option! Feel free to contact us at <mailto:ever@ever.co> to make a request. More details are explained in our [Wiki](https://github.com/ever-co/ever-gauzy/wiki/Free-license-and-hosting-for-Non-profit-and-Open-Source-projects).
 
-This software is available under following licenses:
+This software is available under the following licenses:
 
 -   [Ever® Gauzy™ Platform Community Edition](https://github.com/ever-co/ever-gauzy/blob/master/LICENSE.md#gauzy-platform-community-edition-license)
 -   [Ever® Gauzy™ Platform Small Business](https://github.com/ever-co/ever-gauzy/blob/master/LICENSE.md#gauzy-platform-small-business-license)
@@ -58,7 +58,7 @@ This software is available under following licenses:
 
 The trademarks may only be used with the written permission of Ever Co. LTD. and may not be used to promote or otherwise market competitive products or services.
 
-All other brand and product names are trademarks, registered trademarks or service marks of their respective holders.
+All other brand and product names are trademarks, registered trademarks, or service marks of their respective holders.
 
 ## Copyright
 
@@ -66,5 +66,5 @@ All other brand and product names are trademarks, registered trademarks or servi
 
 ## P.S.
 
--   If you interested to run on-demand (delivery) or digital marketplace business, check open-source [Ever Demand Platform](https://github.com/ever-co/ever-demand)
+-   If you are interested in running on-demand (delivery) or digital marketplace business, check open-source [Ever Demand Platform](https://github.com/ever-co/ever-demand)
 -   [We are Hiring: remote TypeScript / NestJS / Angular developers](https://github.com/ever-co/jobs#available-positions)
